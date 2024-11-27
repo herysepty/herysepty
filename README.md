@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @herysepty
-- 🔭 I’m currently working on Gadjian.com
 - 🌱 I’m currently learning Javascript (NodeJs) and Go
 - 📫 How to reach me feel free to personal message on LinkedIn [@herysepty](https://linkedin.com/in/heryseptyadi)
 
